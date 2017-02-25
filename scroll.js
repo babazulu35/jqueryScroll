@@ -1,5 +1,5 @@
 /**
-* Scroll Jquery with protoype inh.
+* Scroll Jquery with prototype inh.
 * by Hakan Hurriyet <aysanhakan@gmail.com>
 */
 (function(window,$){
